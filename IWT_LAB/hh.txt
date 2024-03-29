@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+    <table>
+        <tr>
+            <td>ENter NAme:</td>
+            <td>
+                <input type="text">
+            </td>
+        </tr>
+        <tr>
+            <td>ENter password:</td>
+            <td>
+                <input type="password">
+            </td>
+        </tr>
+            <td>
+                element?
+            </td>
+            <td>
+                <input type="checkbox" name="ab">suzuki
+                <input type="checkbox" name="ab">maruti
+            </td>
+            </tr>
+            <tr>
+            <td>
+                amount?
+            </td>
+            <td>
+                <select name="x" id="">
+                    <option value="">1000</option>
+                    <option value="">2000</option>
+                    <option value="">2500</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>facility available?</td>
+            <td>
+                <input type="radio" name="y">yes
+                <input type="radio" name="y">no
+                  </td>
+        </tr>
+        <tr>
+            <td>Review:</td>
+        </tr>
+        <tr>
+            <td>
+                <input type="textarea" >
+            </td>
+        </tr>
+        <tr>
+            <td> <input type="submit"></td>
+           
+        </tr>
+    </table>
+</form>
+</body>
+</html>
